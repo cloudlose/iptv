@@ -1,0 +1,267 @@
+#EXTM3U
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png",CCTV1
+http://hls.ye23.vip/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png",CCTV2
+http://hls.ye23.vip/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png",CCTV3
+http://hls.ye23.vip/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4
+http://hls.ye23.vip/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png",CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png",CCTV5
+http://hls.ye23.vip/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png",CCTV6
+http://hls.ye23.vip/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png",CCTV7
+http://hls.ye23.vip/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png",CCTV8
+http://hls.ye23.vip/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png",CCTV9
+http://hls.ye23.vip/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png",CCTV10
+http://hls.ye23.vip/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png",CCTV11
+http://hls.ye23.vip/hls/cctv11hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png",CCTV12
+http://hls.ye23.vip/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png",CCTV13
+http://hls.ye23.vip/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png",CCTV14
+http://hls.ye23.vip/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png",CCTV16
+http://hls.ye23.vip/hls/cctv16hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png",CCTV17
+http://hls.ye23.vip/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png",辽宁卫视
+http://hls.ye23.vip/hls/lnwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png",黑龙江卫视
+http://hls.ye23.vip/hls/hljwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png",湖南卫视
+http://hls.ye23.vip/hls/hnwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png",浙江卫视
+http://hls.ye23.vip/hls/zjwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png",山东卫视
+http://hls.ye23.vip/hls/sdwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png",安徽卫视
+http://hls.ye23.vip/hls/ahwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png",北京卫视
+http://hls.ye23.vip/hls/bjwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png",天津卫视
+http://hls.ye23.vip/hls/tjwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png",东方卫视
+http://hls.ye23.vip/hls/dfwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png",江苏卫视
+http://hls.ye23.vip/hls/jswshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png",广东卫视
+http://hls.ye23.vip/hls/gdwshd.m3u8
+#EXTINF:-1 group-title="YE123" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png",贵州卫视
+http://hls.ye23.vip/hls/gzwshd.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png",CCTV1
+http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png",CCTV2
+http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png",CCTV3
+http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4
+http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png",CCTV5
+http://hls.yun.gehua.net.cn:8088/live/CCTV5HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png",CCTV5+
+http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png",CCTV6
+http://hls.yun.gehua.net.cn:8088/live/CCTV6HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png",CCTV7
+http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png",CCTV8
+http://hls.yun.gehua.net.cn:8088/live/CCTV8HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png",CCTV9
+http://hls.yun.gehua.net.cn:8088/live/CCTV9HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png",CCTV10
+http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png",CCTV11
+http://hls.yun.gehua.net.cn:8088/live/CCTV11HD_2000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png",CCTV12
+http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png",CCTV13
+http://hls.yun.gehua.net.cn:8088/live/CCTV13HD_2000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png",CCTV14
+http://hls.yun.gehua.net.cn:8088/live/CCTV14HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png",CCTV15
+http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png",CCTV17
+http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCgaoqing.png",CHC高清电影
+http://hls.yun.gehua.net.cn:8088/live/CHCHD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCdongzuo.png",CHC动作电影
+http://hls.yun.gehua.net.cn:8088/live/Motion_2000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCjiating.png",CHC家庭影院
+http://hls.yun.gehua.net.cn:8088/live/CHC_2000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png",东南卫视
+http://hls.yun.gehua.net.cn:8088/live/FuJian_2000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png",东方卫视
+http://hls.yun.gehua.net.cn:8088/live/DongFangHD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png",江苏卫视
+http://hls.yun.gehua.net.cn:8088/live/JiangSuHD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png",河北卫视
+http://hls.yun.gehua.net.cn:8088/live/HeBeiHD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png",浙江卫视
+http://hls.yun.gehua.net.cn:8088/live/ZheJiangHD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png",深圳卫视
+http://hls.yun.gehua.net.cn:8088/live/ShenZhenHD_6000.m3u8
+#EXTINF:-1 group-title="歌华央卫" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png",湖北卫视
+http://hls.yun.gehua.net.cn:8088/live/HuBeiHD_6000.m3u8
+#EXTINF:-1 group-title="亦非云IP版",湖南娱乐
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/1300.m3u8
+#EXTINF:-1 group-title="亦非云IP版",湖南都市
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/1300.m3u8
+#EXTINF:-1 group-title="亦非云IP版",湖南电影
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/1300.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
+http://39.134.115.163:8080/TVOD/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
+http://39.134.115.163:8080/TVOD/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
+http://39.134.115.163:8080/TVOD/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
+http://39.134.115.163:8080/TVOD/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://39.134.115.163:8080/TVOD/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
+http://39.134.115.163:8080/TVOD/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
+http://39.134.115.163:8080/TVOD/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9
+http://39.134.115.163:8080/TVOD/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10
+http://39.134.115.163:8080/TVOD/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11
+http://39.134.115.163:8080/TVOD/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12
+http://39.134.115.163:8080/TVOD/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
+http://39.134.115.163:8080/TVOD/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
+http://39.134.115.163:8080/TVOD/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
+http://39.134.115.163:8080/TVOD/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
+http://39.134.115.163:8080/TVOD/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
+http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
+http://39.134.115.163:8080/TVOD/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="江西移动" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
+http://39.134.115.163:8080/TVOD/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangse.png",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="江浙沪包邮" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg",留学世界
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="江浙沪包邮" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="江浙沪包邮" tvg-logo="https://ohudong.cztv.com/1/logos/2017/05/16/090bdb9f3da9df74a275a785c3ba023f.png",数码时代
+https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="江浙沪包邮",浙江好易购
+http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 group-title="江浙沪包邮",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",金华新闻综合
+http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",金华教育科技
+http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",金华公共频道
+http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",金华都市农村
+http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",舟山新闻综合
+http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",湖州新闻综合
+http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",湖州公共民生
+http://live1.plus.hugd.com/ggpd1/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",湖州文化娱乐
+http://live.plus.hugd.com/whylpd/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",磐安新闻综合
+http://hlsv2.quklive.com/live/1626400915947070/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",磐安文化生活
+http://hlsv2.quklive.com/live/1626401163709056/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",永康新闻综合
+http://hlsv2.quklive.com/live/1625061424267104/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",永康华溪频道
+http://hlsv2.quklive.com/live/1625062755227231/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",桐庐综合频道
+http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=2ee28a051ebfb1b0771869a7d652d4a9&txTime=639a8391
+#EXTINF:-1 group-title="江浙沪包邮",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",临平新闻频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",嵊泗新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",上虞文化影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",海宁新闻综合
+http://live.hndachao.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",海宁生活服务
+http://live.hndachao.cn/shfw/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",德清文化生活
+http://live.yingxi.tv/channel2/sd/live.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",苍南新闻综合
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",洞头综合频道
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",泰顺新闻综合
+http://pili-live-hls.jrts.tianma3600.com/jrts/dspd.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",文成综合频道
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",文成二套
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",永嘉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",南浔综合频道
+http://pili-live-hls.nanxunfb.com/nanxun/live3002833-0.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",建德综合频道
+http://livejdrmt.chinamcache.com/live/jdzb02.m3u8
+#EXTINF:-1 group-title="江浙沪包邮",普陀新闻综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="http://n.ysyz.top:99/buyaolian/xsj.png",新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="http://n.ysyz.top:99/buyaolian/mlzq.png",魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="越南-只待有缘人" tvg-logo="https://imgstatic.vtvcab.vn/logos/CNA_M.png",Channel News Asia HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="越南-只待有缘人" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png",France 24 HD
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
