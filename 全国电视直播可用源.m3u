@@ -54,7 +54,7 @@ http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&c
 http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 #EXTINF:-1 logo="" group-title="" ,29.奶虫恐怖电影
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 logo="" group-title="" ,4K纯享
+#EXTINF:-1 logo="" group-title="CCTV" ,4K纯享
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,19年迈阿密泳装周
 https://vd4.bdstatic.com/mda-keitd5c5q3b2z5nt/hd/mda-keitd5c5q3b2z5nt.mp4
@@ -70,7 +70,7 @@ http://111.13.42.235/PLTV/88888888/224/3221226562/1.m3u8?blog.ntnas.top
 http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
 #EXTINF:-1 logo="" group-title="" ,54.高帧影片
 http://epg.112114.xyz/douyu/6763930
-#EXTINF:-1 logo="" group-title="" ,1992年TVB台庆
+#EXTINF:-1 logo="" group-title"HK" ,1992年TVB台庆
 http://vdse.bdstatic.com//292164d62cb13a03094c6e492cff0f16.mp4
 #EXTINF:-1 logo="" group-title="" ,18号[1920*1080]
 http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
@@ -126,13 +126,13 @@ http://118.31.113.130:82/gzaaa1.php?id=66c8e046bdf90c0e40820e277fce6d3f
 http://111.13.42.235/PLTV/88888888/224/3221226561/1.m3u8?blog.ntnas.top
 #EXTINF:-1 logo="" group-title="" ,2.10澳门澳视卫视台
 http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-13新闻HD
+#EXTINF:-1 logo="" group-title="CCTV" ,CCTV-13新闻HD
 http://60.168.53.192:8888/udp/238.1.79.35:4392
-#EXTINF:-1 logo="" group-title="" ,CCTV-13新闻 (576p)
+#EXTINF:-1 logo="" group-title="CCTV" ,CCTV-13新闻 (576p)
 http://stream4.jlntv.cn/cctv13/sd/live.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV15
+#EXTINF:-1 logo="" group-title="CCTV" ,CCTV15
 http://39.135.138.58:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-13（1080p）
+#EXTINF:-1 logo="" group-title="CCTV" ,CCTV-13（1080p）
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,CCTV13
 http://111.59.189.40:8445/tsfile/live/1011_1.m3u8
@@ -142,17 +142,17 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,CBN幸福娱乐
 http://mzwh4455.qicp.vip:280/hls/106/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-13 HD
+#EXTINF:-1 logo="" group-title="CCTV" ,CCTV-13 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV13
+#EXTINF:-1 logo="" group-title="CCTV" ,CCTV13
 http://183.207.249.36:80/PLTV/4/224/3221227387/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=188510429838C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz8gqXYszxJXTww4r47BQdS0%2BwWipdMTdABh
 #EXTINF:-1 logo="" group-title="" ,CCTV-13新闻
 http://39.134.116.30:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,CCTV-13（720p）
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-13新闻
+#EXTINF:-1 logo="" group-title="CCTV" ,CCTV-13新闻
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8$江西宜春3.5M
-#EXTINF:-1 logo="" group-title="" ,CCTV-15（1080p）
+#EXTINF:-1 logo="" group-title="CCTV" ,CCTV-15（1080p）
 http://39.135.138.60:18890/TVOD/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,CCTV+ Channel 1
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
@@ -7824,19 +7824,7 @@ http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4
 http://mmitv.top/pltv/iqiyi.php?id=180051222&tk=887b35b4
 #EXTINF:-1 logo="" group-title="" ,自然传奇
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
-#EXTINF:-1 logo="" group-title="" ,足球7
-http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
-#EXTINF:-1 logo="" group-title="" ,自贡综合
-http://110.189.153.160:1001/zhpd.flv?zsicd
-#EXTINF:-1 logo="" group-title="" ,足球5
-http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
-#EXTINF:-1 logo="" group-title="" ,足球
-http://nsszds.f3322.net:808/hls/65/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,足球频道
-https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 logo="" group-title="" ,足球3
-http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
-#EXTINF:-1 logo="" group-title="" ,足球1
-http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
-#EXTINF:-1 logo="" group-title="" ,足球2
-http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
+#EXTINF:-1 logo="" group-title="台湾",国家地理台湾
+http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+#EXTINF:-1 logo="" group-title="香港",凤凰卫视中台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
