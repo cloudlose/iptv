@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="江浙沪包邮" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png", CCTV6
+http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
+
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV6 HD
+http://39.135.138.60:18890/TVOD/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV4 HD
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="江浙沪包邮" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangse.png",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
