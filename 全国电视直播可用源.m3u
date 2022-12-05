@@ -11,15 +11,15 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
 
 #EXTINF:-1 group-title="江浙沪包邮" ,CCTV1 HD
-http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="江浙沪包邮" ,CCTV15 HD
-
-#EXTINF:-1 group-title="江浙沪包邮" ,CCTV15 HD
-
-#EXTINF:-1 group-title="江浙沪包邮" ,CCTV15 HD
-
-#EXTINF:-1 group-title="江浙沪包邮" ,CCTV15 HD
-
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV2 HD
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV4 HD
+http://39.134.65.175/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV5 HD
+http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV7 HD
+http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 group-title="江浙沪包邮" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangse.png",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 #EXTINF:-1 group-title="江浙沪包邮" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg",留学世界
