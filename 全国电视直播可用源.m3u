@@ -6,6 +6,20 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
 http://39.135.138.60:18890/TVOD/88888910/224/3221225650/index.m3u8
 #EXTINF:-1 group-title="江浙沪包邮" ,CCTV4 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CHC家庭影院 HD
+http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="江浙沪包邮" ,CHC高清影视 HD
+http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV精品纪录 HD
+http://39.134.67.6/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV世界地理 HD
+http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV14少儿 HD
+http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV10 HD
+http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="江浙沪包邮" ,CCTV9 HD
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
 
 #EXTINF:-1 group-title="江浙沪包邮" ,CCTV15 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
